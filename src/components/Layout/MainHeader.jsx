@@ -4,7 +4,7 @@ import styles from "./MainHeader.module.css";
 const MainHeader = (props) => {
   return (
     <header className={styles.header}>
-      <h1>Redux</h1>
+      <h1>Super Cart</h1>
       <nav>
         <ul>
           <li>
